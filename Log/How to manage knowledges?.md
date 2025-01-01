@@ -27,5 +27,6 @@ obsidian 负责最初的本地段编写，GitHub 可以用于多人协同，noti
 ## 其他说明
 请注意，在将内容 push 到 origin 的时候，请不要将本地 `.obsidian` 相关内容 push 上去，否则 PR 将**无法合并**！
 
-![[no-.obsidian.png]]
+![no-.obsidian.png](./img/no-.obsidian.png)
 如上图，请不要将 `.obsidian` 内容 commit 上去！
+同时，在提 issue 的时候请不要提到自己 fork 的仓库中，否则无法被查看与 comment！
